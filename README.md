@@ -96,7 +96,7 @@ You can download any project folder from this repository using this tool:
 
 # Visitor Counter
 
-![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=skyblue)
+![Visitors](https://komarev.com/ghpvc/?username=RESH-22&color=38BDF8)
 
 ---
 
